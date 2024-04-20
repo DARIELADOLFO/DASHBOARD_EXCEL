@@ -6,7 +6,7 @@ Este repositorio contiene una serie de proyectos de análisis de datos realizado
 
 ## Dashboard 1: Ventas Mensuales
 
-![Dashboard 1](/ruta/al/archivo/del/dashboard1.png)
+![Dashboard 1](DASHBOARD MARCA ADIDAS Y NIKE/DASHBOARD.png)
 
 Este dashboard presenta un análisis mensual de las ventas de la empresa, incluyendo gráficos de barras y líneas que muestran las tendencias a lo largo del tiempo. También se incluyen tablas dinámicas para un análisis más detallado.
 
